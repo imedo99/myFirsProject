@@ -1,0 +1,32 @@
+.heder{
+	margin-top: 40px;
+	display: flex;
+
+}
+ul{
+	display: flex;
+	list-style: none;
+}
+li{
+	margin-left: 40px;
+
+}
+a{
+	text-decoration: none;
+}
+.date{
+	font-size: 48px;
+	color: #fff;
+	background-color: blue;
+	display: inline-block;
+	margin: 0 0 0 7px;
+
+}
+.momo{
+	margin: 0 0 0 13px;
+}
+.ime{
+	display: flex;
+	justify-content: center;
+}
+
